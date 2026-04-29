@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+requests
+pydeck
+geopandas
+shapely
+libpysal
+esda
+numpy<=1.24.4
+sqlalchemy
+psycopg2-binary
